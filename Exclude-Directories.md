@@ -9,3 +9,7 @@ Note: you can always see all directories in the root folder by choosing the _Pro
 **Mechanism**
 
 Right click on a folder and select _Mark Directory As > Excluded_.
+
+You can see the total effect of your exclusions go to
+
+_Preferences > Project > Project Structure_
