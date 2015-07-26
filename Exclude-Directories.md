@@ -6,4 +6,4 @@ Note: you can see all directories by choosing the _Project_ scope.
 
 **Mechanism**
 
-Right click on a folder and select Mark Directory As > Excluded.
+Right click on a folder and select _Mark Directory As > Excluded_.
