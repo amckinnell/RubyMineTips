@@ -13,4 +13,4 @@ A place to collect RubyMine Tips and Tricks.
 1. [[Link Developer Tools to RubyMine|Link Developer Tools to RubyMine]]
 1. [[Use Local History in TDD Cycle|Local History in TDD Cycle]]
 1. [[Useful RubyMine Plugins|Useful Plugins]]
-1. [[Analyze a Stack Trace|Analyze Stacktrace]]
+1. [[Analyze a Stacktrace|Analyze Stacktrace]]
