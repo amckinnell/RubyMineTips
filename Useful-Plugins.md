@@ -1,7 +1,0 @@
-**Rationale**
-
-LineSorter
-
-**Mechanism**
-
-TBD
