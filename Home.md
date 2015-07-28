@@ -6,3 +6,4 @@ A place to collect RubyMine Tips and Tricks.
 1. [[Exclude Directories|Exclude Directories]]
 1. [[Rails Debugging Print|Rails Debugging Print]]
 1. [[File Diff|File Diff]]
+1. [[Adjust Keymap for Refactoring|Refactoring Keymap]]
