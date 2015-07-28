@@ -8,8 +8,7 @@ Navigate to: _RubyMine > Preferences > Editor > Live Templates_
 
 ![New Live Template](https://github.com/amckinnell/RubyMineTips/blob/master/images/new-live-template.png)
 
-![Debugging Print Live Template](https://github.com/amckinnell/RubyMineTips/blob/master/images/debugging-print-live-template
-.png)
+![Debugging Print Live Template](https://github.com/amckinnell/RubyMineTips/blob/master/images/debugging-print-live-template.png)
 
 Click "Edit variables"
 
