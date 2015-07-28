@@ -11,3 +11,4 @@ A place to collect RubyMine Tips and Tricks.
 1. [[Tame Inspections|Tame Inspections]]
 1. [[Jump for a Commit into Your Issue Tracker|Jump to Issue Tracker]]
 1. [[Link Developer Tools to RubyMine|Link Developer Tools to RubyMine]]
+1. [[Use Local History in TDD Cycle|Local History in TDD Cycle]]
