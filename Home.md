@@ -7,3 +7,4 @@ A place to collect RubyMine Tips and Tricks.
 1. [[Rails Debugging Print|Rails Debugging Print]]
 1. [[File Diff|File Diff]]
 1. [[Adjust Keymap for Refactoring|Refactoring Keymap]]
+1. [[Launch Rails Server with a Foreman Configuration|Foreman Rails Server]]
