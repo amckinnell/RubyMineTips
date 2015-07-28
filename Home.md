@@ -4,7 +4,7 @@ First Draft
 
 1. [[Show Line Numbers|Line Numbers]]
 1. [[File Diff|File Diff]]
-
+1. [[Lines Sorter Plugin|Lines Sorter Plugin]]
 
 Work in Progress
 
@@ -18,5 +18,4 @@ Work in Progress
 1. [[Jump for a Commit into Your Issue Tracker|Jump to Issue Tracker]]
 1. [[Link Developer Tools to RubyMine|Link Developer Tools to RubyMine]]
 1. [[Use Local History in TDD Cycle|Local History in TDD Cycle]]
-1. [[Useful RubyMine Plugins|Useful Plugins]]
 1. [[Analyze a Stacktrace|Analyze Stacktrace]]
