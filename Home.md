@@ -9,3 +9,4 @@ A place to collect RubyMine Tips and Tricks.
 1. [[Adjust Keymap for Refactoring|Refactoring Keymap]]
 1. [[Launch Rails Server with a Foreman Configuration|Foreman Rails Server]]
 1. [[Tame Inspections|Tame Inspections]]
+1. [[Jump for a Commit into Your Issue Tracker|Jump to Issue Tracker]]
