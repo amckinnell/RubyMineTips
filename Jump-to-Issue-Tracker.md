@@ -12,6 +12,6 @@ In the Add Issue Navigation Link dialog specify the Issue ID regular expression 
 
 ![Add Issue Navigation Link](https://github.com/amckinnell/RubyMineTips/blob/master/images/jump-to-issue-tracker.png)
 
-If you are successful you should see links of you show the commit history for a file.
+If you are successful you should see links when you show the commit history for a file.
 
 
