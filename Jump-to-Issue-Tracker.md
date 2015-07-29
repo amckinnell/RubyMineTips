@@ -4,7 +4,7 @@ Tweak your configuration so that you can jump from a commit message to your issu
 
 **Mechanism**
 
-_Preferences > Version Control > Issue Navigation_ and Add (using the '+' button)
+_Preferences > Version Control > Issue Navigation_ and _Add_ (using the '+' button)
 
 In the Add Issue Navigation Link dialog specify the Issue ID regular expression and the replacement text. You can test out your regular expression by entering a sample Issue ID.
 
