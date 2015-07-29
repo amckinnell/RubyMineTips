@@ -22,5 +22,6 @@ Work in Progress
 
 Possibilities
 
-1. [[Running Inspections on a Single File|Running Inspections on a Single File]]
-1. [[Palua App for Function Keys|Palua App for Function Keys]]
+1. Running Inspections on a Single File
+1. Palua App for Function Keys
+1. Simplify the Menu Structure
