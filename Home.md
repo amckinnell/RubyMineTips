@@ -19,3 +19,7 @@ Work in Progress
 1. [[Link Developer Tools to RubyMine|Link Developer Tools to RubyMine]]
 1. [[Use Local History in TDD Cycle|Local History in TDD Cycle]]
 1. [[Analyze a Stacktrace|Analyze Stacktrace]]
+
+Possibilities
+
+1. [[Running Inspections on a Single File|Running Inspections on a Single File]]
