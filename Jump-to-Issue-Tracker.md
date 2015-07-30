@@ -16,7 +16,7 @@ The settings that do the trick where I work are:
 
 Setting    | Value
 :------    | :----
-Issue ID   | ^#(\d+).*
+Issue ID   | ^#(\d+) .*
 Issue link | http://mingle.hq.nulogy.com/projects/packmanager/cards/$1 
 
 If you are successful you should see links when you show the commit history for a file.
