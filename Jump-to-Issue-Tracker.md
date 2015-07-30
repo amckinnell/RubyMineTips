@@ -14,11 +14,13 @@ In the Add Issue Navigation Link dialog specify the Issue ID regular expression 
 
 The settings that do the trick where I work are:
 
-Setting | Value
-:--- | :---
-Issue ID (regular expression)  | ^#(\d+).*
-Issue link (replacement expression) | http://mingle.hq.nulogy.com/projects/packmanager/cards/$1 
+Setting    | Value
+:------    | :----
+Issue ID   | ^#(\d+).*
+Issue link | http://mingle.hq.nulogy.com/projects/packmanager/cards/$1 
 
 If you are successful you should see links when you show the commit history for a file.
+
+![Jump from Git History](https://github.com/amckinnell/RubyMineTips/blob/master/images/jump-to-issue-tracker-from-git-history.png)
 
 
