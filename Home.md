@@ -25,6 +25,7 @@ Possibilities
 1. Palua App for Function Keys
 1. Simplify the Menu Structure
 1. Run All Tests in a Spec File
+1. Paste from History
 
 Deprecated
 
