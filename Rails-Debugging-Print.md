@@ -1,6 +1,6 @@
 **Rationale**
 
-When debugging a Rails application one of the best techniques is to insert print statements into the server log. To make the debugging print statement stand out in the log it's useful to display a prompt prior to the debugging output. We can make this common operation easier by adding a live template just for this purpose.
+When debugging a Rails application a useful technique is to insert print statements into the server log. To make the debugging print statement stand out in the log it's useful to display a prompt prior to the debugging output. It can sometimes be necessary to distinguish between multiple debugging print statements. We can make this common operation easier by adding a live template just for this purpose.
 
 **Mechanism**
 
