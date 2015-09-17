@@ -27,6 +27,7 @@ Possibilities
 1. Run All Tests in a Spec File
 1. Paste from History
 1. Code Coverage
+1. Running a single test that uses Shoulda syntax
 
 Deprecated
 
