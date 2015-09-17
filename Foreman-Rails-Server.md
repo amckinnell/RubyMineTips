@@ -8,7 +8,7 @@ Use the Run > Edit Configurations and add a new configuration based on the Gem C
 
 | Configuration    | Value                           |
 | :--------------- | :------------------------------ |
-| Name:            | Foreman                         |
+| Name:            | Local Server                    |
 | Gem name:        | foreman                         |
 | Executable name: | foreman                         |
 | Arguments:       | start --procfile=./Procfile.all |
