@@ -12,5 +12,7 @@ Note: you can always see all directories and files in the root folder by choosin
 
 _Preferences > Scopes_
 
-Add a local scope and start excluding or including files. Note: you can also define exclusions and inclusions based on directories (by clicking the _Include Recursively_ or _Exclude Recursively_ button).
+Add a local scope and start excluding or including files.
+
+Note: you can also define exclusions and inclusions based on directories (by clicking the _Include Recursively_ or _Exclude Recursively_ button).
 
