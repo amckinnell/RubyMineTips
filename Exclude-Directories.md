@@ -2,7 +2,7 @@
 
 Not all directories in your root folder need to visible. Not all directories in your root folder need to show up in search results.
 
-On my current project I have excluded these folders: _.idea_, _coverage_, _log_, and _tmp_.
+On my current project I have excluded these folders: `.idea`, `coverage`, `log`, and `tmp`.
 
 Note: you can always see all directories in the root folder by choosing the _Project_ scope.
 
