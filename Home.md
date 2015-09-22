@@ -5,6 +5,7 @@ First Draft
 1. [[Show Line Numbers|Line Numbers]]
 1. [[File Diff]]
 1. [[Exclude Directories]]
+1. [[Adding a Local Scope|Scopes]]
 1. [[Rails Debugging Print]]
 1. [[Jump from a Commit into Your Issue Tracker|Jump to Issue Tracker]]
 1. [[Launch Rails Server with a Foreman Configuration|Foreman Rails Server]]
@@ -12,7 +13,6 @@ First Draft
 Work in Progress
 
 1. [[Adding a Personal TODO Comment|Personal TODO Comment]]
-1. [[Adding a Scope|Scopes]]
 1. [[Adjust Keymap for Refactoring|Refactoring Keymap]]
 1. [[Tame Inspections]]
 1. [[Link Developer Tools to RubyMine]]
