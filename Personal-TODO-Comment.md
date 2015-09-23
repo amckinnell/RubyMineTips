@@ -10,3 +10,19 @@ I use personal TODO comments to keep track notes during a programming episode (o
 
 **Mechanism**
 
+_Preferences > Editor > TODO_
+
+Patterns
+
+| Configuration   | Value            |
+| :-------------- | :--------------- |
+| Icon:           | _your choice_    |
+| Case Sensitive: | Yes              | 
+| Pattern:        | \bARM\b.*        |
+
+Filters
+
+| Configuration   | Value            |
+| :-------------- | :--------------- |
+| Name:           | Alistair's TODOs |  
+| Pattern:        | \bARM\b.*        |
