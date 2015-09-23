@@ -12,7 +12,7 @@ I use personal TODO comments to keep track my notes and comments during a progra
 
 Navigate to: _Preferences > Editor > TODO_
 
-Patterns
+Patterns:
 
 | Configuration   | Value            |
 | :-------------- | :--------------- |
@@ -20,7 +20,7 @@ Patterns
 | Case Sensitive: | Yes              | 
 | Pattern:        | \bARM\b.*        |
 
-Filters
+Filters:
 
 | Configuration   | Value            |
 | :-------------- | :--------------- |
@@ -36,3 +36,5 @@ Navigate to: _Preferences > Editor > Live Templates_
 | Template text:  | # ARM ($TODAY$): $CURSOR$ |
 
 where the $TODAY$ variable has the expression: `date()`.
+
+Now you can easily insert a personal TODO comment by typing your chosen abbreviation.
