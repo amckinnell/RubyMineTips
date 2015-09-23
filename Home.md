@@ -3,7 +3,7 @@ A place to collect RubyMine Tips and Tricks.
 First Draft
 
 1. [[Show Line Numbers in Editor | Line Numbers]]
-1. [[Use RubyMine do Diff Files or Directories | File Diff]]
+1. [[Use RubyMine to Diff Files or Directories | File Diff]]
 1. [[Simplify Project View by Excluding Directories | Exclude Directories]]
 1. [[Simplify Project View with a Scope | Scopes]]
 1. [[Add a Smart Debugging Print for Rails | Rails Debugging Print]]
