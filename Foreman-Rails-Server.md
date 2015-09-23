@@ -4,7 +4,7 @@ If you use a Foreman configuration to launch Rails server you can configure Ruby
 
 **Mechanism**
 
-Use the Run > Edit Configurations and add a new configuration based on the Gem Command default.
+Use the _Run > Edit Configurations_ and add a new configuration based on the Gem Command default.
 
 | Configuration    | Value                           |
 | :--------------- | :------------------------------ |
