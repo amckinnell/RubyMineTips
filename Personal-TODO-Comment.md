@@ -10,7 +10,7 @@ I use personal TODO comments to keep track my notes and comments during a progra
 
 **Mechanism**
 
-_Preferences > Editor > TODO_
+Navigate to: _Preferences > Editor > TODO_
 
 Patterns
 
@@ -26,3 +26,13 @@ Filters
 | :-------------- | :--------------- |
 | Name:           | Alistair's TODOs |  
 | Pattern:        | \bARM\b.*        |
+
+Navigate to: _Preferences > Editor > Live Templates_
+
+| Configuration   | Value                     |
+| :-------------- | :------------------------ |
+| Abbreviation:   | arm                       |  
+| Description:    | Alistair TODO comment     |
+| Template text:  | # ARM ($TODAY$): $CURSOR$ |
+
+where the $TODAY$ variable has the expression: `date()`.
