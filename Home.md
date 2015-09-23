@@ -2,22 +2,22 @@ A place to collect RubyMine Tips and Tricks.
 
 First Draft
 
-1. [[Show Line Numbers|Line Numbers]]
-1. [[File Diff]]
-1. [[Exclude Directories]]
-1. [[Adding a Local Scope|Scopes]]
-1. [[Rails Debugging Print]]
-1. [[Jump from a Commit into Your Issue Tracker|Jump to Issue Tracker]]
-1. [[Launch Rails Server with a Foreman Configuration|Foreman Rails Server]]
+1. [[Show Line Numbers in Editor | Line Numbers]]
+1. [[Use RubyMine do Diff Files or Directories | File Diff]]
+1. [[Simplify Project View by Excluding Directories | Exclude Directories]]
+1. [[Simplify Project View with a Scope | Scopes]]
+1. [[Add a Smart Debugging Print for Rails | Rails Debugging Print]]
+1. [[Jump from a Commit into Your Issue Tracker | Jump to Issue Tracker]]
+1. [[Launch Rails Server with a Foreman Configuration | Foreman Rails Server]]
+1. [[Personal TODO Comments While Coding | Personal TODO Comment]]
 
 Work in Progress
 
-1. [[Adding a Personal TODO Comment|Personal TODO Comment]]
-1. [[Adjust Keymap for Refactoring|Refactoring Keymap]]
+1. [[Adjust Keymap for Refactoring | Refactoring Keymap]]
 1. [[Tame Inspections]]
 1. [[Link Developer Tools to RubyMine]]
-1. [[Use Local History in TDD Cycle|Local History in TDD Cycle]]
-1. [[Analyze a Stacktrace|Analyze Stacktrace]]
+1. [[Use Local History in TDD Cycle | Local History in TDD Cycle]]
+1. [[Analyze a Stacktrace | Analyze Stacktrace]]
 
 Possibilities
 
@@ -31,5 +31,5 @@ Possibilities
 
 Deprecated
 
-1. [[Lines Sorter Plugin|Lines Sorter Plugin]]
+1. [[Lines Sorter Plugin | Lines Sorter Plugin]]
 
