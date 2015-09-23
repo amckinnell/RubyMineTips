@@ -29,11 +29,11 @@ Filters:
 
 Navigate to: _Preferences > Editor > Live Templates_
 
-| Configuration   | Value                     |
-| :-------------- | :------------------------ |
-| Abbreviation:   | arm                       |  
-| Description:    | Alistair TODO comment     |
-| Template text:  | # ARM ($TODAY$): $CURSOR$ |
+| Configuration   | Value                  |
+| :-------------- | :--------------------- |
+| Abbreviation:   | arm                    |  
+| Description:    | Alistair TODO comment  |
+| Template text:  | # ARM ($TODAY$): $END$ |
 
 where the $TODAY$ variable has the expression: `date()`.
 
