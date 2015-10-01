@@ -4,4 +4,11 @@ Tweak your developer tools so that links open in RubyMine. In our example we sho
 
 **Mechanism**
 
-TBD
+Use iTerm2 to enable Command+Click to open filename in Rubymine
+
+_Preferences > Profiles > Advanced_
+
+Semantic History
+
+Run command...
+/usr/local/bin/mine --line \2 "\1"
