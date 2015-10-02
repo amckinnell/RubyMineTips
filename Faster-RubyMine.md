@@ -23,3 +23,7 @@ Edit the `rubymine.vmoptions` file located in `~/Library/Preferences/RubyMine70`
 Essentially you want to give RubyMine a 2GB JVM.
 If you have an especially large project and you want to run code inspections for the whole project,
 you may have to increase the maximum memory allocation to 4GB.
+
+**Don't Index All Project Directories**
+
+See [[Exclude Directories]]
