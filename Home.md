@@ -19,6 +19,7 @@ Work in Progress
 1. [[Use Local History in TDD Cycle | Local History in TDD Cycle]]
 1. [[Analyze a Stacktrace | Analyze Stacktrace]]
 1. [[Tweaks for a Faster Rubymine | Faster RubyMine]]
+1. [[RSpec Test Template | RSpec Test Template]]
 
 Possibilities
 
