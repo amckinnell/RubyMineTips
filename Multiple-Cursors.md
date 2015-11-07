@@ -1,4 +1,4 @@
-The amazing feature from Sublime available in RubyMine.
+The amazing multiple cursor feature now available in RubyMine.
 
 Command        | Effect
 :------        | :-----
