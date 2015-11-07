@@ -15,7 +15,7 @@ There are a few assumptions:
 
 Download and install the [Source Code Pro](https://github.com/adobe-fonts/source-code-pro) font.
 
-Install the python package Pygments. On OS X use the following command:
+Install the python source code highlighting package Pygments. On OS X use the following command:
 
 ````
 easy_install Pygments
