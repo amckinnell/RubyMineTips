@@ -1,5 +1,7 @@
-```ctrl+g```
+Multiple cursors
 
-```shift+ctrl+g```
-
-```ctrl+command+g```
+Command        | Effect
+:------        | :-----
+ctrl+g         | works with a text selection (or without a selection on word boundaries surrounding the cursor)
+shift+ctrl+g   | _go backwards_ through the selected text
+ctrl+command+g | similar to ctrl+g and creates a cursor for all matching text in the current file 
