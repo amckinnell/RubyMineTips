@@ -13,6 +13,7 @@ First Draft
 1. [[RSpec Test Template | RSpec Test Template]]
 1. [[Tweaks for a Faster Rubymine | Faster RubyMine]]
 1. [[Highlight Code for a Keynote Presentation | Highlight Code for Keynote]]
+1. [[Palua App for Function Keys | Palua App]]
 
 Work in Progress
 
@@ -21,7 +22,6 @@ Work in Progress
 1. [[Link Developer Tools to RubyMine]]
 1. [[Use Local History in TDD Cycle | Local History in TDD Cycle]]
 1. [[Analyze a Stacktrace | Analyze Stacktrace]]
-1. [[Palua App for Function Keys | Palua App]]
 
 Possibilities
 
