@@ -3,6 +3,7 @@ A place to collect RubyMine Tips and Tricks.
 First Draft
 
 1. [[Show Line Numbers in Editor | Line Numbers]]
+1. [[Multiple Cursors | Multiple Cursors]]
 1. [[Use RubyMine to Diff Files or Directories | File Diff]]
 1. [[Simplify Project View by Excluding Directories | Exclude Directories]]
 1. [[Simplify Project View with a Scope | Scopes]]
@@ -22,7 +23,6 @@ Work in Progress
 1. [[Link Developer Tools to RubyMine]]
 1. [[Use Local History in TDD Cycle | Local History in TDD Cycle]]
 1. [[Analyze a Stacktrace | Analyze Stacktrace]]
-1. [[Multiple Cursors | Multiple Cursors]]
 
 Possibilities
 
