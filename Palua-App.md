@@ -4,7 +4,7 @@ RubyMine uses function keys to map commands.
 Out of the box OS X uses function keys to perform various useful tasks.
 To use function keys in RubyMine you have to also hold down the ```Fn``` button.
 
-The Palua App lets function keys be invoked without holding the function key down in RubyMine while leaving the default behaviour intact everywhere else.
+The Palua App lets function keys be invoked without holding the function key down when RubyMine is active while leaving the default behaviour intact everywhere else.
  
 **Mechanism**
 
