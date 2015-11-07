@@ -21,11 +21,11 @@ Work in Progress
 1. [[Link Developer Tools to RubyMine]]
 1. [[Use Local History in TDD Cycle | Local History in TDD Cycle]]
 1. [[Analyze a Stacktrace | Analyze Stacktrace]]
+1. [[Palua App for Function Keys | Palua App]]
 
 Possibilities
 
 1. Running Inspections on a Single File
-1. Palua App for Function Keys
 1. Simplify the Menu Structure
 1. Run All Tests in a Spec File
 1. Paste from History
