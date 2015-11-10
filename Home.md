@@ -4,7 +4,7 @@ First Draft
 
 1. [[Show Line Numbers in Editor | Line Numbers]]
 1. [[Multiple Cursors | Multiple Cursors]]
-1. [[Use RubyMine to Diff Files or Directories | File Diff]]
+1. [[Adjust Keymap for Refactoring | Refactoring Keymap]]
 1. [[Simplify Project View by Excluding Directories | Exclude Directories]]
 1. [[Simplify Project View with a Scope | Scopes]]
 1. [[Add a Smart Debugging Print for Rails | Rails Debugging Print]]
@@ -12,13 +12,13 @@ First Draft
 1. [[Launch Rails Server with a Foreman Configuration | Foreman Rails Server]]
 1. [[Personal TODO Comments While Coding | Personal TODO Comment]]
 1. [[RSpec Test Template | RSpec Test Template]]
+1. [[Use RubyMine to Diff Files or Directories | File Diff]]
 1. [[Tweaks for a Faster Rubymine | Faster RubyMine]]
 1. [[Highlight Code for a Keynote Presentation | Highlight Code for Keynote]]
 1. [[Palua App for Function Keys | Palua App]]
 
 Work in Progress
 
-1. [[Adjust Keymap for Refactoring | Refactoring Keymap]]
 1. [[Tame Inspections]]
 1. [[Link Developer Tools to RubyMine]]
 1. [[Use Local History in TDD Cycle | Local History in TDD Cycle]]
