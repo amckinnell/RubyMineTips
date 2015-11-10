@@ -6,6 +6,7 @@ Make it easier to refactor using the keyboard by adjusting the default keymap to
 
 | Binding                       | Action            |
 | :------                       | :-----            |
+| Option + Command + A          | Annotate          |
 | Option + Command + R          | Rename            |
 | Option + Command + M          | Extract Method    |
 | Option + Command + V          | Extract Variable  |
