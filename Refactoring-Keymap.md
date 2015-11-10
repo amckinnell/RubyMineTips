@@ -14,6 +14,7 @@ Make it easier to refactor using the keyboard by adjusting the default keymap to
 | Option + Command + P          | Extract Parameter  |
 | Option + Command + I          | Inline             |
 | Option + Command + J          | Join Lines         |
+| Option + Command + L          | Reformat Lines     |
 | Option + Command + Up Arrow   | Extend Selection   |
 | Option + Command + Down Arrow | Shrink Selection   |
 | Option + Command + Z          | Analyze Stacktrace |
