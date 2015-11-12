@@ -16,6 +16,7 @@ Make it easier to refactor using the keyboard by adjusting the default keymap to
 | Option + Command + R          | Rename             |         |
 | Option + Command + V          | Extract Variable   | Yes     |
 | Option + Command + Z          | Analyze Stacktrace |         |
+| Option + Command + Return     | Last Edit Location |         |
 | Option + Command + Up Arrow   | Extend Selection   |         |
 | Option + Command + Down Arrow | Shrink Selection   |         |
 
