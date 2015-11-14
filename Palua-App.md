@@ -9,7 +9,7 @@ The Palua App lets function keys be invoked without holding the function key dow
 **Mechanism**
 
 Download and install the [Palua App](https://itunes.apple.com/ca/app/palua/id431494195) from the App Store.
-This is a paid app (although well worth the cost for me).
+This is a paid app (less than $2 last time I checked). Well worth that price to me.
 
 Configure Palua preferences so that:
 
