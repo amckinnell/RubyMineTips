@@ -1,8 +1,18 @@
-**Rationale**
+Tweak your developer tools so that links open in RubyMine. In our example we show the configuration for opening links in Better Errors, Rails Footnotes, and iTerm2 in RubyMine.
 
-Tweak your developer tools so that links open in RubyMine. In our example we show the configuration for opening links in Better Errors and Rails Footnotes in RubyMine.
+### Rails Footnotes
 
-**Mechanism**
+````
+f.prefix = "x-mine://open?file=%s&line=%d"
+````
+
+### Better Errors
+
+````
+BetterErrors.editor = "x-mine://open?file=%{file}&line=%{line}" if defined? BetterErrors
+````
+
+### iTerm2
 
 Use iTerm2 to enable Command+Click to open filename in Rubymine
 
