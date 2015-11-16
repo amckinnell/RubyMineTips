@@ -22,5 +22,4 @@ Semantic History
 
 | Setting        | Value                              |
 | -------------- | ---------------------------------- |
-| Run command... | /usr/local/bin/mine --line \2 "\1" |
 | Open URL...    | x-mine://open?file=\1&line=\2      |
