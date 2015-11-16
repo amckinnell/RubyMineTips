@@ -14,7 +14,7 @@ BetterErrors.editor = "x-mine://open?file=%{file}&line=%{line}" if defined? Bett
 
 ### iTerm2
 
-Use iTerm2 to enable Command+Click to open filename in Rubymine
+Use iTerm2 to enable Command+Click to open a filename in Rubymine
 
 _Preferences > Profiles > Advanced_
 
