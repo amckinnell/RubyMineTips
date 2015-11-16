@@ -1,4 +1,4 @@
-Tweak your developer tools so that links open in RubyMine. In our example we show the configuration for opening links in Better Errors, Rails Footnotes, and iTerm2 in RubyMine.
+Tweak your developer tools so that links open in RubyMine. In our example we show the configuration for opening links in Rails Footnotes, Better Errors, and iTerm2 in RubyMine.
 
 ### Rails Footnotes
 
