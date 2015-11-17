@@ -1,0 +1,1 @@
+Install the Key Promoter plugin.
