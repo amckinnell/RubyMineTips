@@ -17,6 +17,7 @@ First Draft
 1. [[Tweaks for a Faster Rubymine | Faster RubyMine]]
 1. [[Highlight Code for a Keynote Presentation | Highlight Code for Keynote]]
 1. [[Palua App for Function Keys | Palua App]]
+1. [[Learn Keyboard Shortcuts with Key Promoter | Key Promoter]]
 
 Work in Progress
 
