@@ -20,4 +20,4 @@ Add the following macro to `~/Library/Preferences/RubyMineXX/options/macros.xml`
 </application>
 ````
 
-I bind this macro to `Control + Command + T` (and to Option + Command + K for when I'm refactoring).
+I bind this macro to `Control + Command + T` (and to `Option + Command + K` for when I'm refactoring).
