@@ -11,7 +11,7 @@ Add the following macro to `~/Library/Preferences/RubyMineXX/options/macros.xml`
 ````
 <application>
   <component name="ActionMacroManager">
-    <macro name="Run Every Tests in File">
+    <macro name="Run Every Test in File">
       <action id="EditorTextStart" />
       <action id="RunClass" />
       <action id="Back" />
