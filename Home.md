@@ -18,7 +18,7 @@ First Draft
 1. [[Highlight Code for a Keynote Presentation | Highlight Code for Keynote]]
 1. [[Palua App for Function Keys | Palua App]]
 1. [[Learn Keyboard Shortcuts with Key Promoter | Key Promoter]]
-1. [[Run Every Test in a Spec File | Rull Every Test]]
+1. [[Run Every Test in a Spec File | Run Every Test]]
 
 Work in Progress
 
@@ -26,7 +26,7 @@ Work in Progress
 1. [[Use Local History in TDD Cycle | Local History in TDD Cycle]]
 1. [[Analyze a Stacktrace | Analyze Stacktrace]]
 
-Possibilitiese
+Possibilities
 
 1. Running Inspections on a Single File
 1. Simplify the Menu Structure
