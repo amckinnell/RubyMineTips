@@ -24,12 +24,12 @@ Work in Progress
 1. [[Tame Inspections]]
 1. [[Use Local History in TDD Cycle | Local History in TDD Cycle]]
 1. [[Analyze a Stacktrace | Analyze Stacktrace]]
+1. [[Run All Tests in a Spec File | Rull All Tests]]
 
 Possibilities
 
 1. Running Inspections on a Single File
 1. Simplify the Menu Structure
-1. Run All Tests in a Spec File
 1. Paste from History
 1. Code Coverage
 1. Running a single test that uses Shoulda syntax
