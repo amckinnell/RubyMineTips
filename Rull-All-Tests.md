@@ -20,4 +20,4 @@ Add the following macro to `~/Library/Preferences/RubyMineXX/options/macros.xml`
 </application>
 ````
 
-I bind this macro to `Control + Command + E` (and to `Option + Command + E` for when I'm refactoring).
+I bind this macro to `Control + Command + E` (and alos to `Option + Command + E` for when I'm in refactoring mode).
