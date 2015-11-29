@@ -4,7 +4,7 @@ I want to run a [Zeus Server](https://github.com/burke/zeus) to speed up my deve
 
 **Mechanism**
 
-RubyMine supports [Startup Tasks](https://www.jetbrains.com/ruby/help/startup-tasks.html) for just this purpose.
+RubyMine supports [Startup Tasks](https://www.jetbrains.com/ruby/help/startup-tasks.html) for exactly this purpose.
 
 Navigate to: _Preferences > Tools > Startup Tasks_
 
