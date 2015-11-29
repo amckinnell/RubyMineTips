@@ -1,7 +1,6 @@
 A place to collect RubyMine Tips and Tricks.
 
-First Draft
-
+1. [[Tweaks for a Faster Rubymine | Faster RubyMine]]
 1. [[Show Line Numbers in Editor | Line Numbers]]
 1. [[Multiple Cursors | Multiple Cursors]]
 1. [[Adjust Keymap for Refactoring | Refactoring Keymap]]
@@ -14,7 +13,6 @@ First Draft
 1. [[RSpec Test Template | RSpec Test Template]]
 1. [[Link Developer Tools to RubyMine]]
 1. [[Use RubyMine to Diff Files or Directories | File Diff]]
-1. [[Tweaks for a Faster Rubymine | Faster RubyMine]]
 1. [[Highlight Code for a Keynote Presentation | Highlight Code for Keynote]]
 1. [[Palua App for Function Keys | Palua App]]
 1. [[Learn Keyboard Shortcuts with Key Promoter | Key Promoter]]
