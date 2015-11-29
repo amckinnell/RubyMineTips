@@ -34,8 +34,3 @@ Possibilities
 1. Paste from History
 1. Code Coverage
 1. Running a single test that uses Shoulda syntax
-
-Deprecated
-
-1. [[Lines Sorter Plugin | Lines Sorter Plugin]]
-
