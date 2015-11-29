@@ -25,6 +25,7 @@ Work in Progress
 1. [[Tame Inspections]]
 1. [[Use Local History in TDD Cycle | Local History in TDD Cycle]]
 1. [[Analyze a Stacktrace | Analyze Stacktrace]]
+1. [[Automatically Start Zeus on RubyMine Startup | Startup Tasks ]]
 
 Possibilities
 
