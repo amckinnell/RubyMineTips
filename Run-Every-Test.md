@@ -20,4 +20,4 @@ Add the following macro to `~/Library/Preferences/RubyMineXX/options/macros.xml`
 </application>
 ````
 
-I bind this macro to `Control + Command + E` (and also to `Option + Command + E` for when I'm in refactoring mode). The 'E' is for every.
+I bind this macro to `Control + Command + E` (and also to `Option + Command + E` for when I'm in refactoring mode). The `E` is for every.
