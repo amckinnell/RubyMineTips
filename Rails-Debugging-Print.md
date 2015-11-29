@@ -4,7 +4,7 @@ When debugging a Rails application a useful technique is to insert print stateme
 
 **Mechanism**
 
-Navigate to: _RubyMine > Preferences > Editor > Live Templates_
+Navigate to: _Preferences > Editor > Live Templates_
 
 ![New Live Template](https://github.com/amckinnell/RubyMineTips/blob/master/images/new-live-template.png)
 
