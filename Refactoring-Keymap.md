@@ -23,4 +23,4 @@ Make it easier to refactor using the keyboard by adjusting the default keymap to
 | Option + Command + Up Arrow   | Extend Selection   |         |
 | Option + Command + Down Arrow | Shrink Selection   |         |
 
-Note: some of these are the default bindings; some of them are not.
+Note: some of these are the default bindings (as denoted by _Yes_ in the _Default_ column).
