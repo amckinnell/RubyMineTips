@@ -14,6 +14,7 @@ Make it easier to refactor using the keyboard by adjusting the default keymap to
 | Option + Command + M          | Extract Method     | Yes     |
 | Option + Command + P          | Extract Parameter  | Yes     |
 | Option + Command + R          | Rename             |         |
+| Option + Command + S          | Split Vertically   |         |
 | Option + Command + T          | Surround With...   | Yes     |
 | Option + Command + U          | Unwrap/Remove      |         |
 | Option + Command + V          | Extract Variable   | Yes     |
