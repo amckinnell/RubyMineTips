@@ -11,7 +11,7 @@ There are a number of improvements that can make a big difference to the out of 
 
 **Increase Memory**
 
-Edit the `rubymine.vmoptions` file located in `~/Library/Preferences/RubyMine80` as follows:
+Create a `rubymine.vmoptions` file located in `~/Library/Preferences/RubyMine80` as follows:
 
     -Xms2g
     -Xmx2g
