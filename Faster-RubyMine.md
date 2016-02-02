@@ -14,7 +14,9 @@ There are a number of improvements that can make a big difference to the out of 
 Edit the `rubymine.vmoptions` file located in `~/Library/Preferences/RubyMine80` as follows:
 
     -Xms2g
-    -Xmx2g (or 4g)
+    -Xmx2g
+
+Note: if you run out of memory use `-Xmx4g` to allocate `4g` of JVM memory.
 
 Essentially you want to give RubyMine a 2GB JVM.
 If you have an especially large project and you want to run code inspections for the whole project,
