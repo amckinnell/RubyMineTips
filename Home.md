@@ -27,8 +27,6 @@ Work in Progress
 
 Possibilities
 
-1. Running Inspections on a Single File
-1. Simplify the Menu Structure
 1. Paste from History
 1. Code Coverage
-1. Running a single test that uses Shoulda syntax
+1. Simplify the Menu Structure
