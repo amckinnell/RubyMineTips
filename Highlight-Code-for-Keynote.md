@@ -40,4 +40,4 @@ Program     | /Users/alistair/dev/scripts/highlight_code.sh
 
 You can invoke your tool using the Find Action command.
 
-Note: you do something equivalent with an Alfred workflow.
+Note: you can do something equivalent with an Alfred workflow.
