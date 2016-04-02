@@ -11,7 +11,7 @@ There are a number of improvements that can make a big difference to the out of 
 
 **Increase Memory**
 
-If you have a recent version of RubyMine, click _Help > Edit Custom VM Options..._ and enter
+Navigate to: _Help > Edit Custom VM Options..._ and enter:
 
     -Xms2g
     -Xmx2g
