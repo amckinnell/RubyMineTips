@@ -11,10 +11,12 @@ There are a number of improvements that can make a big difference to the out of 
 
 **Increase Memory**
 
-Create a `rubymine.vmoptions` file located in `~/Library/Preferences/RubyMine80` as follows:
+If you have a recent version of RubyMine, click _Help > Edit Custom VM Options..._ and enter
 
     -Xms2g
     -Xmx2g
+
+Alternatively, create a `rubymine.vmoptions` file located in `~/Library/Preferences/RubyMine80`
 
 Essentially you want to give RubyMine a JVM with `2g` of memory.
 If you have an especially large project and you want to run code inspections for the whole project,
