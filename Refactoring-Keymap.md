@@ -10,7 +10,7 @@ Make it easier to refactor using the keyboard by adjusting the default keymap to
 | Option + Command + C          | Extract Constant   | Yes     |
 | Option + Command + I          | Inline             |         |
 | Option + Command + J          | Join Lines         |         |
-| Option + Command + L          | Reformat Lines     | Yes     |
+| Option + Command + L          | Reformat Code      | Yes     |
 | Option + Command + M          | Extract Method     | Yes     |
 | Option + Command + P          | Extract Parameter  | Yes     |
 | Option + Command + R          | Rename             |         |
