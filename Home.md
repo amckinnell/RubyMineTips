@@ -17,6 +17,7 @@ A place to collect RubyMine Tips and Tricks.
 1. [[Palua App for Function Keys | Palua App]]
 1. [[Learn Keyboard Shortcuts with Key Promoter | Key Promoter]]
 1. [[Run Every Test in a Spec File | Run Every Test]]
+1. [[Disable unnecessary plugins | Disable Plugins]]
 
 Work in Progress
 
