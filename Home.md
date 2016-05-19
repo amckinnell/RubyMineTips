@@ -17,13 +17,13 @@ A place to collect RubyMine Tips and Tricks.
 1. [[Palua App for Function Keys | Palua App]]
 1. [[Learn Keyboard Shortcuts with Key Promoter | Key Promoter]]
 1. [[Run Every Test in a Spec File | Run Every Test]]
+1. [[Automatically Start Zeus on RubyMine Startup | Startup Tasks ]]
 
 Work in Progress
 
 1. [[Tame Inspections]]
 1. [[Use Local History in TDD Cycle | Local History in TDD Cycle]]
 1. [[Analyze a Stacktrace | Analyze Stacktrace]]
-1. [[Automatically Start Zeus on RubyMine Startup | Startup Tasks ]]
 
 Possibilities
 
