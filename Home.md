@@ -18,6 +18,7 @@ A place to collect RubyMine Tips and Tricks.
 1. [[Learn Keyboard Shortcuts with Key Promoter | Key Promoter]]
 1. [[Run Every Test in a Spec File | Run Every Test]]
 1. [[Automatically Start Zeus on RubyMine Startup | Startup Tasks ]]
+1. [[Database Plugin Tips | Database Plugin ]]
 
 Work in Progress
 
