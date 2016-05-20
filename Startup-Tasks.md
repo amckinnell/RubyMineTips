@@ -11,3 +11,5 @@ Navigate to: _Preferences > Tools > Startup Tasks_
 Click the `+` on the bottom left corner
 
 Select `Start Zeus Server: <env>`
+
+Note: you may want to disable the _Activate tool window_ setting (so that _Run_ window does not open on startup).
