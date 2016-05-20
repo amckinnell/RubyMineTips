@@ -11,14 +11,12 @@ We use the following test template:
 
 ````
 #parse("Ruby File Header.rb")
-require "rails_helper"
+require "unit_spec_helper"
 
 RSpec.describe ${Behaviour_name} do
-
   it "should ${It_should}" do
     expect(true).to eq(true)
   end
-
 end
 ````
 
